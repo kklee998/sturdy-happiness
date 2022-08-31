@@ -1,3 +1,3 @@
-module github.com/BattlesnakeOfficial/starter-snake-go
+module github.com/kklee998/sturdy-happiness
 
 go 1.18
